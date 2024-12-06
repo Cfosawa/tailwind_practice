@@ -4,8 +4,9 @@ module.exports = {
   theme: {
     extend: {
       colors:{
-        'header-bg':'#F6EFEE',
-      }
+        'header': '#F6EFEE',
+        'default': '#62554F',
+      },
     },
   },
   plugins: [],
